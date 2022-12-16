@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    }
+  ]
+}
